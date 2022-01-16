@@ -3,12 +3,6 @@ import random
 # third party library
 import numpy as np
 # data file
-import mnist_loader
-
-
-# data pulling says this is needed
-import cPickle
-import gzip
 
 #### Libraries
 # Standard library
